@@ -1,0 +1,15 @@
+'use strict';
+
+export default `
+
+    # Query the Authorisation Service
+    type Query {
+        # Get rebalancings to be done for given date
+        testString: String
+    }
+
+    # This is the schema for the Prime Service
+    schema {
+        query: Query
+    }
+`;
