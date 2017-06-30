@@ -8,6 +8,7 @@ export default `
         testString: String
     }
 
+
     # This is the schema for the Prime Service
     schema {
         query: Query

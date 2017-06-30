@@ -15,10 +15,17 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "amqplib": "^0.5.1",
+    "axios": "^0.16.2",
     "body-parser": "^1.17.2",
+    "graphql-http": "^0.2.0",
+    "graphql-iso-date": "^3.2.0",
     "graphql-server-express": "^0.8.0",
     "graphql-tools": "^1.0.0",
-    "whatwg-fetch": "1.0.0"
+    "nodemailer": "^4.0.1",
+    "request": "^2.81.0",
+    "whatwg-fetch": "1.0.0",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "babel-cli": "6.16.0",
